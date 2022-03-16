@@ -1,0 +1,10 @@
+package game;
+/**
+ * @author Umut Karadas
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        Menu.run();
+    }
+}
